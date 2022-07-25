@@ -1,3 +1,8 @@
 .panda-bg-info{
     background-color: #fceae8;
 }
+
+body{
+    scroll-behavior: smooth;
+    transition: .6s;
+}
